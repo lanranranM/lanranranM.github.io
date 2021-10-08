@@ -2949,18 +2949,18 @@ input, select, textarea {
 	}
 
 		.goto-next:before {
-			background-image: url("images/next.png");
+			background-image: url("images/next1.png");
 			background-position: center center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			content: '';
 			display: block;
-			height: 2em;
+			height: 3em;
 			left: 50%;
 			margin: -0.75em 0 0 -1em;
 			position: absolute;
 			top: 50%;
-			width: 2em;
+			width: 3em;
 			z-index: 1;
 		}
 
